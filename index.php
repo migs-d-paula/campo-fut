@@ -19,6 +19,16 @@
 			<div id="borda2"></div>
 			<div id="borda3"></div>
 			<div id="borda4"></div>
+			<div id="linha-gol-1"></div>
+			<div id="linha-gol-2"></div>
+			<div id="linha-gol-3"></div>
+			<div id="linha-gol-4"></div>
+			<div id="linha-travessao-1"></div>
+			<div id="linha-travessao-3"></div>
+			<div id="linhagoleiro1"></div>
+			<div id="linhagoleiro2"></div>
+			<div id="linhagoleiro3"></div>
+			<div id="linhagoleiro4"></div>
 		</div>
 	</div>
 </body>

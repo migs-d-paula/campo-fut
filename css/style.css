@@ -102,3 +102,80 @@ height: 50px;
 border: 5px solid white;
 border-radius: 100%;
 }
+
+#linha-gol-1
+{
+    position: relative;
+    top: -1425px;
+    left: 1075px;
+    width: 200px;
+    height: 0px;
+    
+    border: 5px solid white;   
+}
+
+#linha-gol-2
+{
+position: relative;
+top: -950px;
+left: 1075px;
+width: 200px;
+height: 0px;
+
+border: 5px solid white;
+}
+
+#linha-gol-3
+{
+position: relative;
+top: -1425px;
+left: 0px;
+width: 200px;
+height: 0px;
+    
+border: 5px solid white;   
+}
+
+#linha-gol-4
+{
+position: relative;
+top: -950px;
+left: 0px;
+width: 200px;
+height: 0px;
+
+border: 5px solid white;
+}
+
+#linha-travessao-1
+{
+position: relative;
+top: -1435px;
+left: 200px;
+width: 0px;
+height: 475px;
+
+border: 5px solid white;
+}
+
+#linha-travessao-3
+{
+position: relative;
+top: -1940px;
+left: 1075px;
+width: 0px;
+height: 475px;
+
+border: 5px solid white;
+}
+
+#linhagoleiro1
+{
+    position: absolute;
+    top: 180px;
+    left: 1000px;
+    width: 200px;
+    height: 0px;
+    
+    border: 5px solid white;
+}
